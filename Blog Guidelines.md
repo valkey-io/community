@@ -26,8 +26,6 @@ The preferred submission path is a GitHub pull request (see the full workflow be
  
 Official releases, deep technical milestones, and governance updates. These require a GitHub pull request and follow the full Zola workflow described below.
  
----
- 
 ## Step-by-Step: Full Zola Workflow
  
 ### Step 0 — Environment Setup
