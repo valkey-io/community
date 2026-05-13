@@ -16,7 +16,7 @@ Open an issue here: [blog_post_template.md](https://github.com/valkey-io/valkey-
  
 ### Community Blogs
  
-Tutorials, use cases, event recaps, and integration walkthroughs.
+Tutorials, use cases, event recaps, and integration walkthroughs. [Here](https://docs.google.com/document/d/1yfQ7WA9EN3PVvV9SybLAXpL4ehiUGiGPL9ZivrBAs0U/edit?tab=t.0) is a general template to help you get started.
  
 The preferred submission path is a GitHub pull request (see the full workflow below). If you are not familiar with Git or GitHub, you can draft your content in Google Docs or Word and submit it via the [Asana form](https://form.asana.com/?k=9zh9lhK3yWLavaOi6C0hgA&d=9283783873717) instead.
  
