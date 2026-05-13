@@ -20,6 +20,8 @@ Tutorials, use cases, event recaps, and integration walkthroughs. [Here](https:/
  
 The preferred submission path is a GitHub pull request (see the full workflow below). If you are not familiar with Git or GitHub, you can draft your content in Google Docs or Word and submit it via the [Asana form](https://form.asana.com/?k=9zh9lhK3yWLavaOi6C0hgA&d=9283783873717) instead.
  
+---
+
 ### Project Blogs
  
 Official releases, deep technical milestones, and governance updates. These require a GitHub pull request and follow the full Zola workflow described below.
