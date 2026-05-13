@@ -7,7 +7,7 @@
 ## Chat & Discussion
  
 - **[Slack](https://valkey.io/slack)** — Primary real-time community hub. Use for questions, contributor coordination, and channel-specific topics (e.g. `#meetup-groups`).
-    - For help, go to the Valkey-help-wanted-requests channel [here](https://valkey-oss-developer.slack.com/archives/C0B2FJVMC9J)  
+    - For help, go to the `Valkey-help-wanted-requests channel` [here](https://valkey-oss-developer.slack.com/archives/C0B2FJVMC9J)  
 - **[GitHub Discussions](https://github.com/orgs/valkey-io/discussions)** — Async forum for questions, proposals, and community conversation. Use when you want a searchable, threaded record.
 ---
  
