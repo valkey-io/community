@@ -56,7 +56,7 @@ After the LF first pass, a volunteer video reviewer from the community does the 
 * Video is ready for public publishing
 * Nothing was missed in the first pass
 
-Want to be a volunteer video reviewer? Say so in the #valkey-video-workshop](https://valkey-oss-developer.slack.com/archives/C0BEU4MV40Y) Slack channel.
+Want to be a volunteer video reviewer? Say so in the [#valkey-video-workshop](https://valkey-oss-developer.slack.com/archives/C0BEU4MV40Y) Slack channel.
 
 Step 5: Publishing
 
