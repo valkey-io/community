@@ -31,11 +31,11 @@ We use an Asana form instead of Google Drive because Google Drive is restricted 
 
 Include in your submission:
 
-** Video file or link
-** Title and short description
-** Format (short form or long form)
-** Any relevant context (topic, tools used, target audience)
-** Your name and preferred contact method
+* Video file or link
+* Title and short description
+* Format (short form or long form)
+* Any relevant context (topic, tools used, target audience)
+* Your name and preferred contact method
 
 ## Step 3: LF First Pass Review
 
